@@ -1,2 +1,2 @@
 Good bye!
-Sone other line 
+Some other line 
